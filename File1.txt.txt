@@ -1,1 +1,2 @@
 First file from command
+Adding comment for Feature2
