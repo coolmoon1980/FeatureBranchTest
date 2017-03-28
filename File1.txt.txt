@@ -1,2 +1,4 @@
 First file from command
 Adding comment from the VS code for Feature1
+First file from command
+Adding comment for Feature2
