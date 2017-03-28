@@ -1,4 +1,6 @@
 First file from command
+<<<<<<< HEAD
 Adding comment from the VS code for Feature1
-
-Adding new changes to the file. the file is added after the merge
+=======
+Adding comment for Feature2
+>>>>>>> Feature2
